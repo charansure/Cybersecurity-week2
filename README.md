@@ -222,38 +222,6 @@ Based on the observations, the following security improvements were recommended:
 
 9. **Perform authorized security testing:** Conduct reconnaissance and scanning only on systems and networks where appropriate authorization has been provided.
 
-## 📸 Screenshots & Evidence
-
-The following screenshots document my Week 2 practical activities.
-
-### Phase 1 – Footprinting & Reconnaissance
-
-#### 1. WHOIS – Domain Information
-![WHOIS](Screenshots/01-WHOIS.png)
-
-#### 2. WhatWeb – Technology Fingerprinting
-![WhatWeb](Screenshots/02-WhatWeb.png)
-
-#### 3. Nslookup – DNS Resolution
-![Nslookup](Screenshots/03-Nslookup.png)
-
-#### 4. cURL – HTTP Response Headers
-![cURL](Screenshots/04-Curl-Headers.png)
-
-#### 5. Wafw00f – WAF Detection
-![Wafw00f](Screenshots/05-Wafw00f.png)
-
-#### 6. DNSRecon – DNS Enumeration
-![DNSRecon](Screenshots/06-DNSRecon.png)
-
-### Phase 2 – Network Scanning
-
-#### 7. Zenmap – Host Discovery
-![Zenmap Host Discovery](Screenshots/07-Zenmap-Host-Discovery.png)
-
-#### 8. Zenmap – Network Topology
-![Zenmap Network Topology](Screenshots/08-Zenmap-Network-Topology.png)
-
 ## 📚 Key Learnings
 
 Through these practical activities, I gained hands-on knowledge of:
